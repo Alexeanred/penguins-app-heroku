@@ -1,2 +1,4 @@
 # penguins-app-heroku
-Deploy penguin classification app to heroku
+This is the first app that I deploy to heroku
+Speacial thanks to DataProfessor
+
